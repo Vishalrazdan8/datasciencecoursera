@@ -1,3 +1,1 @@
-# datasciencecoursera
-Data Science repository
-test
+Data Science Repoistory for Statstician and Data Scientist
